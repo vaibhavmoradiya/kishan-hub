@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1042340002553",
+    "project_id": "kishan-hub",
+    "storage_bucket": "kishan-hub.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1042340002553:android:5fe9a4a30a7c5bd2d80028",
+        "android_client_info": {
+          "package_name": "com.example.kishan_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1042340002553-4cthreqenhlgtpq93vh8t7lnsd46h432.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAck9CSCRqm9Ng62zalXpUAIoe5aZo-lO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1042340002553-4cthreqenhlgtpq93vh8t7lnsd46h432.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
